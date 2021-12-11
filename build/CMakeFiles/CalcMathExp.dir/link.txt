@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CalcMathExp.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\CalcMathExp.dir/objects.a @CMakeFiles\CalcMathExp.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CalcMathExp.dir/objects.a -Wl,--no-whole-archive  -o CalcMathExp.exe -Wl,--out-implib,libCalcMathExp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CalcMathExp.dir\linklibs.rsp

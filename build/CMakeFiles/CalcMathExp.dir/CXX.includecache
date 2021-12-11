@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/git projects/Calculate-Math-Expression/BinaryTree.h
+
+C:/Users/user/Desktop/git projects/Calculate-Math-Expression/main.cpp
+iostream
+-
+BinaryTree.h
+C:/Users/user/Desktop/git projects/Calculate-Math-Expression/BinaryTree.h
+stack
+-
+string
+-
+limits.h
+-
+algorithm
+-
+
